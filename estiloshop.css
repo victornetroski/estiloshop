@@ -1,0 +1,16 @@
+body{background-color: rgb(75, 174, 141);}
+header{padding: 50px;border: 5px;margin: 5px;background-color: black;color: aliceblue;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size:xx-large;text-align: center;}
+#s2 {padding: 97px;border-style: groove;margin:5px;background-color: rgb(26, 114, 202);text-align: center;font-family: 'Lucida Sans', ;}
+#s_1 {padding: 75px;border-style: groove;background-color: rgb(200, 12, 150);float:right;}
+footer{padding: 50px;border: 5px; margin: 5px;background-color: yellow;text-align: center;font-family:Verdana;}
+h1{font-family:Verdana, sans-serif;}
+nav{padding-left: 60px; padding-right: 60px;padding-top: 15px;padding-bottom: 15px; background-color: aliceblue;word-spacing: 50px;color:black}
+a:visited {background-color: rgb(183, 8, 8);}
+#w2:link {font-size: larger;}
+#w2:visited {font-size: small;}
+#w3:link {font-size: larger;}
+#w3:visited {font-size: small;}
+#w6:link {font-size:xx-large;}
+#w6:visited {font-size: small;}
+#b1:checked {size: 50px;}
+.ej1:focus {color: red;}
